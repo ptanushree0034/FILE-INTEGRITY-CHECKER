@@ -12,7 +12,9 @@
 
 *MENTOR*: NEELA SANTOSH KUMAR
 
-*TASK DESCRIPTION*: In today's digital world, maintaining data integrity is critical, especially in cybersecurity, where even the slightest modification of a file could indicate a security breach. This task involves developing a File Integrity Checker — a Python-based tool that monitors files for unauthorized changes by calculating and comparing their cryptographic hash values.
+*TASK DESCRIPTION*: 
+
+In today's digital world, maintaining data integrity is critical, especially in cybersecurity, where even the slightest modification of a file could indicate a security breach. This task involves developing a File Integrity Checker — a Python-based tool that monitors files for unauthorized changes by calculating and comparing their cryptographic hash values.
 
 The primary objective of this task is to create a lightweight script using Python and its standard libraries (particularly hashlib, os, json, and argparse) to monitor the integrity of files in a specified directory. The tool ensures that no changes go undetected, which is essential for both security auditing and system reliability. File integrity monitoring is widely used in industries to detect tampering, malware injection, or accidental data corruption.
 
@@ -35,3 +37,5 @@ This solution is implemented in a modular, user-friendly way. It accepts command
 The tool enhances cybersecurity and system monitoring by offering an easy yet effective way to track changes to critical files. It can be particularly helpful for detecting unauthorized changes in configuration files, system logs, scripts, or any sensitive files that should remain unaltered unless explicitly modified by an authorized user.
 
 In summary, this task delivers a practical solution to file integrity monitoring, applying core concepts of cryptography and system security using Python. It reflects how simple tools can play a major role in identifying unauthorized access, malware activity, or accidental changes, making it highly relevant in cybersecurity, system administration, and compliance auditing.
+
+*OUTPUT*: [Codetech CS & EH Task 1.pdf](https://github.com/user-attachments/files/21000095/Codetech.CS.EH.Task.1.pdf)
