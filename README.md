@@ -27,5 +27,3 @@ As part of the submission, I saved the Python script, the output JSON file, and 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/60b1f793-68c4-41b7-b88b-1bb531d861e0" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f888f4d7-5068-41c7-8fe2-acc819ca937e" />
-
-[Codetech CS & EH Task 1.pdf](https://github.com/user-attachments/files/21186404/Codetech.CS.EH.Task.1.pdf)
