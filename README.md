@@ -20,8 +20,6 @@ To implement this, I wrote a script using Python 3.12 in Visual Studio Code, lev
 
 I tested the script on my local system by running it through the VS Code terminal. After navigating to the appropriate directory, I executed the script with the update flag, and it successfully scanned the folder and saved hash values. The output displayed in the terminal confirmed the operation with messages like “Scanning directory: .” and “Hash values updated and saved successfully.” I also verified the generation of the file_hashes.json file in the project folder.
 
-As part of the submission, I saved the Python script, the output JSON file, and relevant screenshots showing the code and terminal output. These files were organized and uploaded to a GitHub repository for final review. The task not only helped reinforce my understanding of Python file handling and hashing but also introduced me to practical aspects of integrity verification — a foundational concept in cybersecurity.
-
 *OUTPUT*: 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/60b1f793-68c4-41b7-b88b-1bb531d861e0" />
